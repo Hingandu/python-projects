@@ -1,11 +1,14 @@
-Names:Hing'andu Emmanuel
+# Python Projects Repository
 
-Student Number:2024075735
+## Student Information
 
-Program of study:ICT PURE
+Full Names:  Hing'andu Emmanuel  
+Student Number:  2024075735  
+Program of Study:  Bachelor of Science in Computer Science  
+Hobbies:
+  - Coding  
+  - Problem solving  
+  - Learning new technologies  
 
 
-#HOBBIES
-*CODING
-*Travelling 
-*Singing
+
